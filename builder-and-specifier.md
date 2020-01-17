@@ -1,5 +1,14 @@
 # Builder and specifier
 
+## Objectif de cet atelier
+
+Faire prendre conscience aux membres d'une équipe qu'investir sur la communication directe produit de nombreux effets bénéfiques.
+
+Les cas d'usage auxquels je pense :
+
+* Des équipes qui ne collaborent qu'au travers de documents écrits et qui ressentent l'incompréhension mutuelle.
+* Des équipes qui ont tendance à produire une documentation exhaustive de ses process sans que cette documentation soit très lue ni appliquée.
+
 ## Mise en situation
 
 Deux équipes de deux personnes sont dans deux pièces séparées, les équipes ne peuvent pas se parler, elles disposent de papier, de pièces de LEGO, le tout sur une table.
