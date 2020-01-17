@@ -13,6 +13,18 @@ Les cas d'usage auxquels je pense :
 
 Deux équipes de deux personnes sont dans deux pièces séparées, les équipes ne peuvent pas se parler, elles disposent de papier, de pièces de LEGO, le tout sur une table.
 
+Pour que les constructeurs puissent reproduire les constructions, ils doivent disposer de toutes les pièces nécessaires.
+
+C'est pourquoi il est fortement recommandé d'avoir créé les assemblages proposés avant de démarrer l'atelier, et d'avoir mis de côté les lots de pièces correspondantes.
+D'après mon expérience de cet atelier, disposer d'un sac par sous-équipe est très confortable.
+
+Par exemple, pour l'équipe A, on aura un sac pour les spécifieurs contenant les assemblages tout faits, et un sac contenant les mêmes pièces non assemblées. Compter 15 à 30mn de préparation avant l'atelier.
+
+**Conseils et astuces**
+
+* Pour augmenter un peu la difficulté, ajouter des pièces inutiles dans les sacs des constructeurs : ils devront chercher les bonnes pièces (fortement recommandé)
+* Pour permettre au 4eme tour de se réaliser dans de bonnes conditions, les sacs en papier sont parfaits : ils permettent de manipuler et d'écrire l'assemblage en le laissant dans le sac afin de le garder hors de vue des constructeurs.
+
 ## 1er tour
 
 L'équipe A doit réaliser une notice de montage d’une construction de deux pièces, donnée par l’organisateur, sans dessiner.
@@ -25,7 +37,7 @@ Les axes d'amélioration sont consignés sur une feuille à part
 ## 2nd tour
 
 Exactement la même itération, mais la construction comporte 4 pièces de tailles, couleurs et positions différentes.
-Là normalement ça doit commencer à être difficile pour les équipes : pour consigner l'assemblage, lire et interpréter les consignes...
+Là normalement ça doit commencer à être difficile pour les équipes : pour consigner l'assemblage , lire et interpréter les consignes...
 
 ## 3eme tour
 
