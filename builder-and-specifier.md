@@ -24,6 +24,7 @@ Par exemple, pour l'équipe A, on aura un sac pour les spécifieurs contenant le
 
 * Pour augmenter un peu la difficulté, ajouter des pièces inutiles dans les sacs des constructeurs : ils devront chercher les bonnes pièces (fortement recommandé)
 * Pour permettre au 4eme tour de se réaliser dans de bonnes conditions, les sacs en papier sont parfaits : ils permettent de manipuler et d'écrire l'assemblage en le laissant dans le sac afin de le garder hors de vue des constructeurs.
+* Il est possible de raccourcir l'atelier en raccourcissant les temps de réalisation, et produire un échec dès l'étape 2. L'étape 3 sera alors supprimée et la 4 se déroulera avec un assemblage de 4 pièces.
 
 ## Liste de matériel
 
@@ -35,12 +36,13 @@ Par exemple, pour l'équipe A, on aura un sac pour les spécifieurs contenant le
 * Deux feuilles de papier A4
 * Un stylo
 * Papier ou carnet pour consigner les améliorations entre chaque tour
+* Papier pour rédiger les spécifications
 * Un chronomètre
 * Un carnet et un stylo pour l'animateur
 
 ## 1er tour
 
-L'équipe A doit réaliser une notice de montage d’une construction de deux pièces, donnée par l’organisateur, sans dessiner.
+L'équipe A doit réaliser une notice de montage d’une construction de deux pièces, donnée par l’organisateur, **sans dessiner**.
 Au bout de 5mn, le rédacteur transmet sans parler le mode opératoire à la seconde équipe, qui doit alors réaliser la même construction à deux.
 Au bout de 2mn, on réunit les deux équipes et on compare les deux constructions
 On laisse 5mn aux deux équipes pour discuter de la rédaction du mode opératoire pour l'améliorer
