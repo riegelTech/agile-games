@@ -25,6 +25,19 @@ Par exemple, pour l'équipe A, on aura un sac pour les spécifieurs contenant le
 * Pour augmenter un peu la difficulté, ajouter des pièces inutiles dans les sacs des constructeurs : ils devront chercher les bonnes pièces (fortement recommandé)
 * Pour permettre au 4eme tour de se réaliser dans de bonnes conditions, les sacs en papier sont parfaits : ils permettent de manipuler et d'écrire l'assemblage en le laissant dans le sac afin de le garder hors de vue des constructeurs.
 
+## Liste de matériel
+
+**Par équipe** (multiplier par le nombre d'équipes) :
+
+* Deux sacs en papier
+* Deux lots identiques de 22 pièces de Lego
+* Un lot d'une dizaine de pièces de Lego aléatoire
+* Deux feuilles de papier A4
+* Un stylo
+* Papier ou carnet pour consigner les améliorations entre chaque tour
+* Un chronomètre
+* Un carnet et un stylo pour l'animateur
+
 ## 1er tour
 
 L'équipe A doit réaliser une notice de montage d’une construction de deux pièces, donnée par l’organisateur, sans dessiner.
